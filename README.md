@@ -10,4 +10,4 @@ http://www.qianduan.org/post-392.html
 http://www.qianduan.org/post-385.html
 
 ## 注意事项
-通过一台中间服务器来执行备份任务，然后在把这台服务器上的数据备份到云盘。
+通过一台中间服务器来执行备份任务，然后再把这台服务器上的数据备份到云盘。
