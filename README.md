@@ -1,2 +1,13 @@
-# backup-server-data
-Backup server data. 服务器数据备份。
+## MySQL 数据库备份
+http://www.qianduan.org/post-384.html  
+http://www.qianduan.org/post-390.html
+
+## FTP 数据备份
+http://www.qianduan.org/post-429.html  
+http://www.qianduan.org/post-392.html
+
+## 备份到云盘
+http://www.qianduan.org/post-385.html
+
+## 注意事项
+通过一台中间服务器来执行备份任务，然后在把这台服务器上的数据备份到云盘。
